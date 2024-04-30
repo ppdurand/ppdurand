@@ -5,6 +5,8 @@
 
 ![Pedro Durand's GitHub stats](https://github-readme-stats.vercel.app/api?username=ppdurand&show_icons=true&theme=synthwave)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ppdurand&layout=compact)
+
 ## Tecnologias que eu domino
 
 <div = style="display: incline_block"><br/>
